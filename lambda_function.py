@@ -4,7 +4,7 @@ from boto3.dynamodb.conditions import Key
 
 DYNAMO_BD = os.environ['DYNAMO_BD']
 
-# Estamos en CloudCamp con el mejor Profe 22 Sep
+# Estamos en CloudCamp con el mejor Profe 22 Sep, con correo de aprobacion
 #Juan Carlos por aca
 
 
